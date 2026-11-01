@@ -13,6 +13,9 @@ title: Developer Guide
   the [SE-EDU initiative](https://se-education.org/), including its code and documentation.
 * Third-party libraries used: [JavaFX](https://openjfx.io/), [Jackson](https://github.com/FasterXML/jackson), and
   [JUnit 5](https://github.com/junit-team/junit5).
+* Notable uses of AI:
+  * @kks070206 used OpenAI Codex to assist with Java implementation and JUnit tests for persistence, role-specific
+    editing, and alpha-bug fixes; UG/DG text and UML diagrams; and code and pull-request reviews.
 
 --------------------------------------------------------------------------------------------------------------------
 
